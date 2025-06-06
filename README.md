@@ -26,3 +26,8 @@ The Real Estate Advisory Chatbot is an automated solution designed to assist cus
 - Botpress Server
 - WhatsApp Business Account
 - Google Cloud Platform Account
+
+## Reference Documentation
+
+For detailed implementation guide and technical specifications, please refer to our documentation:
+[Real Estate Chatbot Implementation Guide](https://drive.google.com/file/d/18MsbqXsiI6OFmxqEvHOG9FqtTajeqUfg/view?usp=sharing)
